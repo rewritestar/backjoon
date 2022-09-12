@@ -139,7 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="5_2884_알람시계.cpp" />
+    <ClCompile Include="6_2525_오븐시계.cpp" />
+    <ClCompile Include="7_2480_주사위세개.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
