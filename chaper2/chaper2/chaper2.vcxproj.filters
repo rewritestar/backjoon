@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2_9498_성적.cpp">
+    <ClCompile Include="5_2884_알람시계.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
