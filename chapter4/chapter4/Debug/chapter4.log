@@ -1,0 +1,3 @@
+﻿  6_4344_평균은 넘겠지.cpp
+C:\workspaces\backjoon\chapter4\chapter4\6_4344_평균은 넘겠지.cpp(35,10): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+  chapter4.vcxproj -> C:\workspaces\backjoon\chapter4\Debug\chapter4.exe
